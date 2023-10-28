@@ -1,4 +1,10 @@
-# ShafEldar.github.io/company.html
+# ShafEldar.github.io
+
+<html>
+  <head>ПрофТестиум_СОШ7</head>
+  <body><a href="company.html">ПрофТестиум_СОШ7</a></body>
+</html>
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>

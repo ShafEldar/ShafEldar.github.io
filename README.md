@@ -1,9 +1,5 @@
 # ShafEldar.github.io
-
-<html>
-  <head>ПрофТестиум_СОШ7</head>
-  <body><a href="company.html">ПрофТестиум_СОШ7</a></body>
-</html>
+<a href="company.html">ПрофТестиум_СОШ7</a>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>

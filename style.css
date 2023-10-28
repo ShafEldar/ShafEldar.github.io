@@ -51,12 +51,12 @@
         padding: 20px;}
 
 #footer a{text-decoration: none;
-          color: #ffffff;}
+          color: white;}
             
 #footer a:hover{text-decoration: underline;}
 
-#footer p{color: #b7e7ff;
-          text-align: right;
+#footer p{color: white;
+          text-align: center;
           font-family: Arial;
           font-size: 10pt;
           font-weight: bold;

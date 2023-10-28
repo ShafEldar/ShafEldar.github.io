@@ -15,6 +15,12 @@
            font-family: Arial;
            font-size: 30pt;}
 
+#header h2{margin: 0px;
+           color: #ffff00;
+           text-align: justify;
+           font-family: Arial;
+           font-size: 16pt;}
+
 #header_menu{background-color: #02689c;}
            
 #navbar{height: 31px;

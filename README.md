@@ -1,2 +1,2 @@
-# ShafEldar.github.io
+# proftestiumschool7sor.github.io
 ПрофТестиум_СОШ7

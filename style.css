@@ -46,7 +46,15 @@
              background-color: #02689c;
              color: #ffff00;
              text-align: center;}
-	      
+
+#rightcol h2{margin: 0px;
+             margin-bottom: 10px;
+             padding: 4px;
+             font-size: 16pt;
+             background-color: #b7e7ff;
+             color: #ffff00;
+             text-align: center;}
+
 #rightcol p{text-align: justify;
 	    font-size: 14pt;}
 	        

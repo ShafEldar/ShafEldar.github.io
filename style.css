@@ -61,6 +61,11 @@
 #rightcol img{margin: 0px 5px 0px 5px;
               border: 1px silver solid;}
 
+#rightcol a{font-family: Arial;
+            font-size: 14pt;
+            text-decoration: none; 
+            display: block;}
+
 #footer{background-color: #02689c;
         padding: 20px;}
 

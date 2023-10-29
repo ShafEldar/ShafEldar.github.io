@@ -63,7 +63,7 @@
 
 #rightcol a{font-family: Arial;
             font-size: 14pt;
-            text-decoration: none; 
+            text-decoration: underline; 
             display: block;}
 
 #footer{background-color: #02689c;

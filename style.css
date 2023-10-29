@@ -62,9 +62,7 @@
               border: 1px silver solid;}
 
 #rightcol a{font-family: Arial;
-            font-size: 14pt;
-            text-decoration: underline; 
-            display: block;}
+            font-size: 14pt;}
 
 #footer{background-color: #02689c;
         padding: 20px;}
